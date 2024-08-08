@@ -1,0 +1,7 @@
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\bin\Debug\Interface_Sgregation.exe.config
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\bin\Debug\Interface_Sgregation.exe
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\bin\Debug\Interface_Sgregation.pdb
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\obj\Debug\Interface_Sgregation.csproj.AssemblyReference.cache
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\obj\Debug\Interface_Sgregation.csproj.CoreCompileInputs.cache
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\obj\Debug\Interface_Sgregation.exe
+D:\Year(3)\Design Principle\Interface_Sgregation\Interface_Sgregation\obj\Debug\Interface_Sgregation.pdb
