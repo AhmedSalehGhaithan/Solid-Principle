@@ -1,0 +1,7 @@
+D:\Year(3)\Design Principle\SRP\SRP\bin\Debug\SRP.exe.config
+D:\Year(3)\Design Principle\SRP\SRP\bin\Debug\SRP.exe
+D:\Year(3)\Design Principle\SRP\SRP\bin\Debug\SRP.pdb
+D:\Year(3)\Design Principle\SRP\SRP\obj\Debug\SRP.csproj.AssemblyReference.cache
+D:\Year(3)\Design Principle\SRP\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\Year(3)\Design Principle\SRP\SRP\obj\Debug\SRP.exe
+D:\Year(3)\Design Principle\SRP\SRP\obj\Debug\SRP.pdb

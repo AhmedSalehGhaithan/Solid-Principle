@@ -1,0 +1,7 @@
+D:\Year(3)\Design Principle\OCP\OCP\bin\Debug\OCP.exe.config
+D:\Year(3)\Design Principle\OCP\OCP\bin\Debug\OCP.exe
+D:\Year(3)\Design Principle\OCP\OCP\bin\Debug\OCP.pdb
+D:\Year(3)\Design Principle\OCP\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+D:\Year(3)\Design Principle\OCP\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+D:\Year(3)\Design Principle\OCP\OCP\obj\Debug\OCP.exe
+D:\Year(3)\Design Principle\OCP\OCP\obj\Debug\OCP.pdb
